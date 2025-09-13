@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:05,520
+They applauded the demo, felt good.
+
+2
+00:00:05,520 --> 00:00:10,960
+I usually say I draw the architecture because it's what people expect.
+
+3
+00:00:10,960 --> 00:00:20,880
+But behind the applause, I mostly copied patterns, reused scripts, and assembled other people's
+
+4
+00:00:20,880 --> 00:00:24,280
+modules.
+
+5
+00:00:24,280 --> 00:00:29,480
+Once in a while, I told myself that stitching counts as designing.
+
+6
+00:00:29,480 --> 00:00:32,240
+It's not a lie, so much as a convenience.
+

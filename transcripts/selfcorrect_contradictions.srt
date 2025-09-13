@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:10,960
+Right. Six years. Absolutely. Well, six if you group internships and tiny consults together.
+
+2
+00:00:11,920 --> 00:00:16,240
+No, actually. Three full-time. Maybe four counting freelance.
+
+3
+00:00:17,760 --> 00:00:24,080
+So, I led some sprints. I mean, I coordinated. Coordinated is different from led.
+
+4
+00:00:24,880 --> 00:00:28,160
+And sometimes I was the only one who merged the final branch.
+
+5
+00:00:29,360 --> 00:00:32,080
+Sorry. That came out awkward.
+

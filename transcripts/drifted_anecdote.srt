@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:10,000
+Funny thing, when I was 7, I made a boat out of mismatched toys and it sort of held together.
+
+2
+00:00:10,000 --> 00:00:13,720
+Not that it matters, but building that way stuck with me.
+
+3
+00:00:13,720 --> 00:00:16,560
+Quick fixes, duct tape elegance.
+
+4
+00:00:16,560 --> 00:00:24,400
+So when people ask about ownership of systems, I say I built parts of things, stitched services
+
+5
+00:00:24,400 --> 00:00:28,400
+together and occasionally owned a small feature.
+
+6
+00:00:28,400 --> 00:00:33,120
+Sometimes I talk about entire projects because it's simpler to tell a story than to read
+
+7
+00:00:33,120 --> 00:00:34,880
+the commit history.
+
+8
+00:00:34,880 --> 00:00:35,960
+It gets messy.
+

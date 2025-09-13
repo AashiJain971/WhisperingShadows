@@ -1,0 +1,8 @@
+Funny thing, when I was 7, I made a boat out of mismatched toys and it sort of held together.
+Not that it matters, but building that way stuck with me.
+Quick fixes, duct tape elegance.
+So when people ask about ownership of systems, I say I built parts of things, stitched services
+together and occasionally owned a small feature.
+Sometimes I talk about entire projects because it's simpler to tell a story than to read
+the commit history.
+It gets messy.
